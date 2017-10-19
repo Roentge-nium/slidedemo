@@ -112,6 +112,7 @@ class: center, middle
 (我竟然不是中文系/艺术系的
 
 ---
+class: center, middle
 
 #Goal & Ideal
 
@@ -124,5 +125,6 @@ class: center, middle
 保持温柔
 
 ---
+class: center, middle
 
 # Thank You！
