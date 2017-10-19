@@ -27,7 +27,7 @@ class: center, middle
 
 对了性别男2333
 
-<img src="http://a1.qpic.cn/psb?/V13SIWt42k2U7Z/m5h4LbrABPdZGWLVt11rnNt5xdC5v0Fpirnq.S4hyos!/b/dBQBAAAAAAAA&ek=1&kp=1&pt=0&bo=LwAuAAAAAAABFzE!&vuin=1426390618&tm=1508374800&sce=60-2-2&rf=viewer_4" width=300 style="margin: 0px 80px">
+<img src="http://a1.qpic.cn/psb?/V13SIWt42k2U7Z/m5h4LbrABPdZGWLVt11rnNt5xdC5v0Fpirnq.S4hyos!/b/dBQBAAAAAAAA&ek=1&kp=1&pt=0&bo=LwAuAAAAAAABFzE!&vuin=1426390618&tm=1508374800&sce=60-2-2&rf=viewer_4" width=30 style="margin: 0px 80px">
 ---
 
 # Interests
@@ -38,7 +38,7 @@ class: center, middle
 
 ** 文徵明 小楷 **
 
-<img src="http://r.photo.store.qq.com/psb?/V13SIWt42VtqY8/ljTYl89iUikTP2TdO0tKUp1KWP7RrASs7HQsZtExNfc!/r/dIMAAAAAAAAA" width=300 style="margin: 0px 80px">
+<img src="http://r.photo.store.qq.com/psb?/V13SIWt42VtqY8/ljTYl89iUikTP2TdO0tKUp1KWP7RrASs7HQsZtExNfc!/r/dIMAAAAAAAAA" width=400 style="margin: 0px 80px">
 
 ---
 
@@ -48,7 +48,7 @@ class: center, middle
 
 ** 宋徽宗 瘦金 **
 
-<img src="http://r.photo.store.qq.com/psb?/V13SIWt42VtqY8/kMPC.TARBgn0KAvTVCViTDWyVjTv0ZSeSCy.iUiHKH0!/r/dLMAAAAAAAAA" width=300 style="margin: 0px 80px">
+<img src="http://r.photo.store.qq.com/psb?/V13SIWt42VtqY8/kMPC.TARBgn0KAvTVCViTDWyVjTv0ZSeSCy.iUiHKH0!/r/dLMAAAAAAAAA" width=500 style="margin: 0px 80px">
 
 ---
 
@@ -56,7 +56,7 @@ class: center, middle
 
 ###English Calligraphy
 
-<img src="http://r.photo.store.qq.com/psb?/V13SIWt42VtqY8/1woBHkj5tcXH5gWK5C9KZNgw9Iv.y2wIQBTcLa2yj8Q!/r/dEQAAAAAAAAA" width=300 style="margin: 0px 80px">
+<img src="http://r.photo.store.qq.com/psb?/V13SIWt42VtqY8/1woBHkj5tcXH5gWK5C9KZNgw9Iv.y2wIQBTcLa2yj8Q!/r/dEQAAAAAAAAA" width=500 style="margin: 0px 80px">
 
 ---
 
@@ -64,7 +64,7 @@ class: center, middle
 
 ###English Calligraphy
 
-<img src="http://r.photo.store.qq.com/psb?/V13SIWt42VtqY8/eCmZ5LWWviDrjkY95Gxp8K3*aILBNoWFWY1VufZCvJI!/r/dB4BAAAAAAAA" width=300 style="margin: 0px 80px">
+<img src="http://r.photo.store.qq.com/psb?/V13SIWt42VtqY8/eCmZ5LWWviDrjkY95Gxp8K3*aILBNoWFWY1VufZCvJI!/r/dB4BAAAAAAAA" width=500 style="margin: 0px 80px">
 
 ---
 
